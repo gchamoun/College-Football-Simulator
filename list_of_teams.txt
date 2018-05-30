@@ -1,119 +1,130 @@
-118
-Akron Zips
-Alabama Crimson Tide
-Appalachian State Mountaineers
-Arizona State Sun Devils
-Arizona Wildcats
-Arkansas Razorbacks
-Army Black Knights
-Auburn Tigers
-Ball State Cardinals
-Baylor Bears
-Boise State Broncos
-Boston College Eagles
-Boston Terriers
-BYU Cougars
-Cal Golden Bears
-Cal State Fullerton Titans
-Cincinnati Bearcats
-Clemson Tigers
-Colorado Buffaloes
-Colorado State Rams
-Connecticut Huskies
-Cornell Big Red
-Dartmouth Big Green
-Dayton Flyers
-Duke Blue Devils
-E. Tenn. St. Buccaneers
-East Carolina Pirates
-Florida Gators
-Florida State Seminoles
-Fresno State Bulldogs
-GA Tech Yellow Jackets
-Georgetown Hoyas
-Georgia Bulldogs
-Georgia Southern Eagles
-Gonzaga Bulldogs
-Harvard Crimson
-Hawaii Warriors
-Houston Cougars
-Idaho Vandals
-Illinois Fighting Illini
-Indiana Hoosiers
-Iowa Hawkeyes
-Iowa State Cyclones
-JU Dolphins
-Kansas Jayhawks
-Kansas State Wildcats
-Kent State Golden Flashes
-Kentucky Wildcats
-Louisville Cardinals
-LSU Tigers
-Marquette Golden Eagles
-Marshall Thundering Herd
-Maryland Terrapins
-Memphis Tigers
-Miami Hurricanes
-Miami University RedHawks
-Michigan State Spartans
-Michigan Wolverines
-Mid. Tenn. St. Blue Raiders
-Minnesota Golden Gophers
-Mississippi State Bulldogs
-Missouri Tigers
-Montana Grizzlies
-Navy Midshipmen
-NC State Wolfpack
-Nebraska Cornhuskers
-New Mexico Lobos
-North Carolina Tar Heels
-North Dakota State Bison
-Northern Iowa Panthers
-Northwestern Wildcats
-Notre Dame Fighting Irish
-Ohio State Buckeyes
-Oklahoma Sooners
-Oklahoma State Cowboys
-Ole Miss Rebels
-Oregon Ducks
-Oregon State Beavers
-Penn State Nittany Lions
-Pitt Panthers
-Portland State Vikings
-Purdue Boilermakers
-Rice Owls
-Rutgers Scarlet Knights
-San Diego State Aztecs
-South Carolina Gamecocks
-South Florida Bulls
-Southern Miss Golden Eagles
-Stanford Cardinal
-Syracuse Orange
-TCU Horned Frogs
-Temple Owl
-Tennessee Volunteers
-Texas A&M Aggies
-Texas Longhorns
-Texas Tech Red Raiders
-Troy University Trojans
-Tulsa Golden Hurricane
-UCF Knights
-UCLA Bruins
-UNLV Runnin Rebels
-USC Trojans
-Utah State Aggies
-Utah Utes
-UTEP Miners
-Vanderbilt Commodores
-Villanova Wildcats
-Virginia Cavaliers
-Virginia Tech Hokies
-Wake Forest Demon Deacons
-Washington Huskies
-Washington State Cougars
-West Virginia Mountaineers
-Western Kentucky Hilltoppers
-Wichita State Shockers
-Wisconsin Badgers
-Wyoming Cowboys
-Xavier Musketeers
+Air Force
+Akron
+Alabama
+Appalachian State
+Arizona
+Arizona State
+Arkansas
+Arkansas State
+Army
+Auburn
+BYU
+Ball State
+Baylor
+Boise State
+Boston College
+Bowling Green
+Buffalo
+California
+Central Michigan
+Charlotte
+Cincinnati
+Clemson
+Coastal Carolina
+Colorado
+Colorado State
+Duke
+East Carolina
+Eastern Michigan
+FAU
+FIU
+Florida
+Florida State
+Fresno State
+Georgia
+Georgia Southern
+Georgia State
+Georgia Tech
+Hawaii
+Houston
+Idaho
+Illinois
+Indiana
+Iowa
+Iowa State
+Kansas
+Kansas State
+Kent State
+Kentucky
+LSU
+Louisiana
+Louisiana Tech
+Louisville
+MTSU
+Marshall
+Maryland
+Memphis
+Miami
+Miami, Ohio
+Michigan
+Michigan State
+Minnesota
+Mississippi State
+Missouri
+NC State
+Navy
+Nebraska
+Nevada
+New Mexico
+New Mexico State
+North Carolina
+North Texas
+Northern Illinois
+Northwestern
+Notre Dame
+Ohio
+Ohio State
+Oklahoma
+Oklahoma State
+Old Dominion
+Ole Miss
+Oregon
+Oregon State
+Penn State
+Pitt
+Purdue
+Rice
+Rutgers
+SMU
+San Diego State
+San Jose State
+South Alabama
+South Carolina
+Southern Miss
+Stanford
+Syracuse
+TCU
+Temple
+Tennessee
+Texas
+Texas A&M
+Texas State
+Texas Tech
+Toledo
+Troy
+Tulane
+Tulsa
+UAB
+UCF
+UCLA
+UConn
+ULM
+UMass
+UNLV
+USC
+USF
+UTEP
+UTSA
+Utah
+Utah State
+Vanderbilt
+Virginia
+Virginia Tech
+WKU
+Wake Forest
+Washington
+Washington State
+West Virginia
+Western Michigan
+Wisconsin
+Wyoming

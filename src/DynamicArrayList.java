@@ -118,6 +118,7 @@ public class DynamicArrayList {
 		for (int index = givenPosition; index < length; index++)
 			entry[index-1] = entry[index];
 	}
+        
 	//*****************************************************************************
 } // end DynamicArrayList
 //*********************************************************************************
